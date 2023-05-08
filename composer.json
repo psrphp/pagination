@@ -1,0 +1,11 @@
+{
+    "name": "psrphp/pagination",
+    "description": "psrphp pagination",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "PsrPHP\\Pagination\\": "src/"
+        }
+    }
+}
